@@ -6,7 +6,8 @@
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
 ## How to build
-# [Seytonic's youtube video](https://www.youtube.com/watch?v=ksvo1WDYQ7s)
-# [NullByte's post](https://null-byte.wonderhowto.com/how-to/make-your-own-bad-usb-0165419/)
+* [Seytonic's youtube video](https://www.youtube.com/watch?v=ksvo1WDYQ7s)
+* [NullByte's post](https://null-byte.wonderhowto.com/how-to/make-your-own-bad-usb-0165419/)
 
 # Available scripts
+*
