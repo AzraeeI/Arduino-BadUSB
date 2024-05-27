@@ -18,5 +18,5 @@
 ## Available scripts
 *
 
-## Available functions
-*
+## Available features
+* [Run as Admin]()
