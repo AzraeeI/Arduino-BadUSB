@@ -10,5 +10,12 @@
 * [Seytonic's youtube video](https://www.youtube.com/watch?v=ksvo1WDYQ7s)
 * [NullByte's post](https://null-byte.wonderhowto.com/how-to/make-your-own-bad-usb-0165419/)
 
-# Available scripts
+## Ducky Script to Arduino
+* [Duckuino](https://d4n5h.github.io/Duckuino/)
+* [Ducky2Arduino](https://elrock.gitlab.io/ducky2arduino/)
+
+## Available scripts
+*
+
+## Available functions
 *
