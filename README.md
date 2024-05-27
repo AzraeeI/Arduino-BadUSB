@@ -4,7 +4,7 @@
 * USB Micro Adapter Cable (you don’t need this one if the Arduino you use comes with built-in USB A male connector)
 
 ### Software needed:
-* [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+* [Arduino IDE](https://www.arduino.cc/en/Main/Software) or [Arduino Cloud](https://create.arduino.cc/editor)
 
 ### How to build
 * [Seytonic's youtube video](https://www.youtube.com/watch?v=ksvo1WDYQ7s)
