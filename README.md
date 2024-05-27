@@ -20,3 +20,4 @@
 
 ## Available features
 * [Run as Admin](https://github.com/N3agu/Arduino-BadUSB/blob/main/Features/RunAsAdmin.ino)
+* [Take Screenshot](https://github.com/N3agu/Arduino-BadUSB/blob/main/Features/TakeScreenshot.ino)
