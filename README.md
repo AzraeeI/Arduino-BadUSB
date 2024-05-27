@@ -19,4 +19,4 @@
 *
 
 ## Available features
-* [Run as Admin]()
+* [Run as Admin](https://github.com/N3agu/Arduino-BadUSB/blob/main/Features/RunAsAdmin.ino)
