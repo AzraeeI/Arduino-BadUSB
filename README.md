@@ -15,10 +15,14 @@
 * [Ducky2Arduino](https://elrock.gitlab.io/ducky2arduino/)
 
 ## Available scripts
-*
+* [Add Exclusions to Windows Defender](https://github.com/N3agu/Arduino-BadUSB/blob/main/Scripts/ExclusionsWD.ino)
 
 ## Available features
 * [Run Command](https://github.com/N3agu/Arduino-BadUSB/blob/main/Features/RunCommand.ino)
 * [Run as Admin](https://github.com/N3agu/Arduino-BadUSB/blob/main/Features/RunAsAdmin.ino)
 * [Take Screenshot](https://github.com/N3agu/Arduino-BadUSB/blob/main/Features/TakeScreenshot.ino)
 * [Bypass AMSI](https://github.com/N3agu/Arduino-BadUSB/blob/main/Features/BypassAMSI.ino)
+
+# Disclaimer
+* The scripts were tested locally, so the "sleeps" in the code may need to be adjusted.
+* These scripts are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
