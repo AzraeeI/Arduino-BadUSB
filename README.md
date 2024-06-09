@@ -16,6 +16,7 @@
 
 ## Available scripts
 * [Add Exclusions to Windows Defender](https://github.com/N3agu/Arduino-BadUSB/blob/main/Scripts/ExclusionsWD.ino)
+* [Download & Execute](https://github.com/N3agu/Arduino-BadUSB/blob/main/Scripts/DownloadExecute.ino)
 
 ## Available features
 * [Run Command](https://github.com/N3agu/Arduino-BadUSB/blob/main/Features/RunCommand.ino)
